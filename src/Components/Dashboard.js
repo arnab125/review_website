@@ -5,8 +5,9 @@ import chartData from './ChartData.json';
 
 function Dashboard() {
   return (
+    <div className="dashboard-container">
+        <h1 className='top'>Charts</h1>
     <div className="charts-container">
-      <h1>Charts</h1>
       <div className="chart">
         <h1>Investment vs Revenue Chart</h1>
         <LineChart width={600} height={300} data={chartData}>
@@ -42,6 +43,7 @@ function Dashboard() {
           <Bar dataKey="sell" fill="#8884d8" />
         </BarChart>
       </div>
+    </div>
     </div>
   );
 }
