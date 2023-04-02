@@ -1,0 +1,43 @@
+[
+    {
+      "id": 1,
+      "name": "John Smith",
+      "email": "john.smith@example.com",
+      "review": "I've been using this laptop for a few weeks now and I'm very happy with my purchase. The performance is great and it's very lightweight, making it easy to carry around.",
+      "rating": 4.5,
+      "photo": "https://cdn.pixabay.com/photo/2016/04/01/10/11/avatar-1299805_960_720.png"
+    },
+    {
+      "id": 2,
+      "name": "Jane Doe",
+      "email": "jane.doe@example.com",
+      "review": "I was hesitant to buy this laptop because of the price, but I'm so glad I did! The build quality is amazing and it runs very smoothly.",
+      "rating": 5,
+      "photo": "https://cdn.pixabay.com/photo/2014/04/02/10/54/person-304893_960_720.png"
+    },
+    {
+      "id": 3,
+      "name": "Bob Johnson",
+      "email": "bob.johnson@example.com",
+      "review": "I bought this laptop for work and it's been great so far. The keyboard is comfortable to type on and the battery life is impressive.",
+      "rating": 4,
+      "photo": "https://cdn.pixabay.com/photo/2014/03/24/13/49/avatar-294479_960_720.png"
+    },
+    {
+      "id": 4,
+      "name": "Alice Williams",
+      "email": "alice.williams@example.com",
+      "review": "I'm not very tech-savvy, but this laptop was very easy to set up and use. The screen is clear and the sound quality is great.",
+      "rating": 4.5,
+      "photo": "https://cdn.pixabay.com/photo/2018/08/28/13/29/avatar-3637561_960_720.png"
+    },
+    {
+      "id": 5,
+      "name": "Tom Brown",
+      "email": "tom.brown@example.com",
+      "review": "I'm a graphic designer and this laptop has been perfect for my needs. The color accuracy of the screen is great and it's powerful enough to handle my workloads.",
+      "rating": 5,
+      "photo": "https://cdn.pixabay.com/photo/2014/04/03/10/06/avatar-309835_960_720.png"
+    }
+  ]
+  
