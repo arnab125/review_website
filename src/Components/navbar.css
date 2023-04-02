@@ -31,6 +31,7 @@ li {
   grid-template-columns: 10rem 1fr 2fr 1fr 10rem;
   box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px,
     rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
+  background-color: #2f3265;
 }
 
 .logo {
@@ -94,6 +95,8 @@ li {
 .menu-link ul li a {
   text-transform: capitalize;
   color: rgba(0, 0, 3, 0.8);
+  font-weight: 600;
+  font-size: 2rem;
   transition: 0.5s;
 }
 .menu-link ul li:hover > a {
@@ -109,18 +112,6 @@ li {
 
 .social-media .hamburger-menu {
   display: none;
-}
-
-.facebook {
-  color: #3b5998;
-}
-
-.instagram {
-  color: #c32aa3;
-}
-
-.youtube {
-  color: #ff0000;
 }
 
 /* hero section   */

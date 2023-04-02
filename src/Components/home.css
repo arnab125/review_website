@@ -26,6 +26,8 @@
     font-size: 1.5rem;
     cursor: pointer;
     transition: all 0.3s ease-in-out;
+    margin-top: 20px;
+    
 }
 
 .btn:hover {
@@ -35,6 +37,35 @@
 }
 
 .btn:active {
+    background-color: rgb(29, 13, 97);
+    color: rgb(255, 255, 255);
+    border: 1px solid rgb(255, 255, 255);
+}
+
+.left
+{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+.btnn {
+    background-color: rgb(41, 149, 17);
+    color: white;
+    padding: 1rem 2rem;
+    border-radius: 0.5rem;
+    border: none;
+    font-size: 1.5rem;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+    margin-top: 20px;
+    margin-left: 20px;
+    display: block;
+    margin: 0 auto;
+}
+
+.btnn:hover {
     background-color: rgb(29, 13, 97);
     color: rgb(255, 255, 255);
     border: 1px solid rgb(255, 255, 255);
