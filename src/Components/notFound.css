@@ -23,3 +23,9 @@
   display: block;
   margin: 0 auto;
 }
+
+@media screen and (max-width: 768px) {
+  .not-found-text {
+  width: 100%;
+  }
+  }

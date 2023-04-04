@@ -10,7 +10,7 @@ function Dashboard() {
     <div className="charts-container">
       <div className="chart">
         <h1>Investment vs Revenue Chart</h1>
-        <LineChart width={300} height={300} data={chartData}>
+        <LineChart width={600} height={300} data={chartData}>
           <XAxis dataKey="month" />
           <YAxis />
           <CartesianGrid stroke="#ccc" />
@@ -22,7 +22,7 @@ function Dashboard() {
       </div>
       <div className="chart">
         <h1>Revenue graph</h1>
-        <LineChart width={300} height={300} data={chartData}>
+        <LineChart width={600} height={300} data={chartData}>
           <CartesianGrid strokeDasharray="3 3" />
           <XAxis dataKey="month" />
           <YAxis />
@@ -34,7 +34,7 @@ function Dashboard() {
 
       <div className="chart">
         <h1>Month vs Sell Chart</h1>
-        <BarChart width={300} height={300} data={chartData}>
+        <BarChart width={600} height={300} data={chartData}>
           <XAxis dataKey="month" />
           <YAxis />
           <CartesianGrid stroke="#ccc" />

@@ -101,8 +101,8 @@ li {
 }
 .menu-link ul li:hover > a {
   transform-origin: left;
-  color: rgba(0, 0, 3, 1);
-  text-decoration: underline;
+  color: rgb(0, 255, 94);
+  text-decoration: none;
   transition: 0.5s;
 }
 

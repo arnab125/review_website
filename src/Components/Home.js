@@ -11,7 +11,7 @@ function Home () {
         <div className="left">
             <h1>Next Generation product</h1>
             <h1 className="sub-heading">Grab it Now !!</h1>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam,kahufkgwgdigaigigiguseidg quod.</p>
+            <p>Get our latest laptop with fast speeds, ample storage, and clear display. Upgrade today and experience modern computing.</p>
             <button className="btn">Buy Now</button>
         </div>
         <div className="right">
